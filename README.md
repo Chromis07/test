@@ -35,4 +35,4 @@ print("hello world")
 줄 바꿈은 띄어쓰기 세 번   
 ![Alt image](test.png)
 
-<img src="C:\workspace\test\test.png" width="450px" height="300px"></img>
+<img src="test.png" width="450px" height="300px"></img>
